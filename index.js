@@ -3,7 +3,7 @@ animal = 'dog'
 
 function myAnimal(animal) {
   return animal;
-  ;
+
 }
 
 function yourAnimal(animal) {
